@@ -20,7 +20,7 @@ Next, the Products Table. This table allow us to see the product descriptions or
 
 ![products_table](products_table.jpg)
 
-Lastly, the Vine Table. This is the table wae truly need to breakdown our analysis. We see the the different versions of ratings, the number of votes and if the reviews were completed via Vine.
+Lastly, the Vine Table. This is the table that was truly needed to breakdown our analysis. We see the the different versions of ratings, the number of votes and if the reviews were completed via Vine.
 
 ![vine_table](vine_table.jpg)
 
