@@ -41,7 +41,6 @@ There does not seem to be a positivity bias in the Vine program. There actually 
 
 In addition I would analyze the rate at which non-Vine customers leave positive reviews versus negative reviews and compare that to the rate at which Vine users do the same.
 
-The summary states whether or not there is bias, and the results support this statement (2 pt)
-An additional analysis is recommended to support the statement (2 pt)
+
 
 
